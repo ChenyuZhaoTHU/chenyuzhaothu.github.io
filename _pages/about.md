@@ -26,6 +26,17 @@ I am currently a master researcher at the AIoT Lab within the institution of Dat
 
 My current work focuses on advancing sensing, control, edge computing within lightweight drone-based systems. I enjoy building proof-of-concepts for innovative applications, encompassing **both hardware and software** aspects. 
 
+
+<!-- <p style="text-align:left">
+      <b> Emails: </b>&nbsp;&nbsp; <a href="mailto:zhaocy22@mails.tsinghua.edu.cn">zhaocy22@mails.tsinghua.edu.cn </a> <b>or</b> <a href="mailto:zcyhi@foxmail.com">zcyhi@foxmail.com </a>        &nbsp;&nbsp;&nbsp;&nbsp;<br>
+			<b> Research Interests: </b> Mobile Computing, Cyber-Physical Systems, Internet of Things, Sensing, Embedded AI, Robotics and Quadrotors and Drones. You can find details from my	<a href="../assets/pdf/ChenyuZhao_CV.pdf"> <b>CV.</b> </a>
+<br>
+<br>
+</p> -->
+**Emails:** [zhaocy22@mails.tsinghua.edu.cn](mailto:zhaocy22@mails.tsinghua.edu.cn) or [zcyhi@foxmail.com](mailto:zcyhi@foxmail.com)
+
+**Research Interests:** Mobile Computing, Cyber-Physical Systems, Internet of Things, Sensing, Embedded AI, Robotics and Quadrotors and Drones. You can find details in my [**CV**](../assets/pdf/ChenyuZhao_CV.pdf).
+
 <p style="text-align:center">
         <a href="mailto:zhaocy22@mails.tsinghua.edu.cn"><b>Email </b>  </a>         &nbsp;&nbsp;&nbsp;&nbsp;
 				<a href="https://scholar.google.com/citations?user=ckZ4BHYAAAAJ&hl"> <b>Google Scholar </b>       </a>       &nbsp;&nbsp;&nbsp;&nbsp; 
@@ -35,12 +46,6 @@ My current work focuses on advancing sensing, control, edge computing within lig
 </p>
 
 
-<p style="text-align:left">
-      <b> Emails: </b>&nbsp;&nbsp; <a href="mailto:zhaocy22@mails.tsinghua.edu.cn">zhaocy22@mails.tsinghua.edu.cn </a> <b>or</b> <a href="mailto:zcyhi@foxmail.com">zcyhi@foxmail.com </a>        &nbsp;&nbsp;&nbsp;&nbsp;<br>
-			<b> Research Interests: </b> Mobile Computing, Cyber-Physical Systems, Internet of Things, Sensing, Embedded AI, Robotics and Quadrotors and Drones. You can find details from my	<a href="../assets/pdf/ChenyuZhao_CV.pdf"> <b>CV.</b> </a>
-<br>
-<br>
-</p>
 
 
 

@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-<li> Our papers <b>FormerReckoning</b> and <b>Distill Drops into Data</b> are accepted by <a href="https://picasso-2024.github.io/mobicom-picasso-2024.html">ACM PICASSO 2024 workshop</a> !</li>
+<li> Our papers <b>FormerReckoning</b> and <b>Distill Drops into Data</b> are accepted by <a href="https://picasso-2024.github.io/mobicom-picasso-2024.html">ACM PICASSO 2024 Workshop</a> !</li>
