@@ -31,13 +31,13 @@ My current work focuses on advancing sensing, control, edge computing within lig
 				<a href="https://scholar.google.com/citations?user=ckZ4BHYAAAAJ&hl"> <b>Google Scholar </b>       </a>       &nbsp;&nbsp;&nbsp;&nbsp; 
         <a href="https://www.linkedin.com/in/chenyu-zhao-212b2923b/"> <b>LinkedIn</b>        </a>         &nbsp;&nbsp;&nbsp;&nbsp;
 				<a href="https://github.com/ChenyuZhaoTHU"> <b>Github </b>       </a>         &nbsp;&nbsp;&nbsp;&nbsp;
-				<a href="~/assets/pdf/ChenyuZhao_CV.pdf"> <b>CV</b> </a>
+				<a href="../assets/pdf/ChenyuZhao_CV.pdf"> <b>CV</b> </a>
 </p>
 
 
 <p style="text-align:left">
       <b> Emails: </b>&nbsp;&nbsp; <a href="mailto:zhaocy22@mails.tsinghua.edu.cn">zhaocy22@mails.tsinghua.edu.cn </a> <b>or</b> <a href="mailto:zcyhi@foxmail.com">zcyhi@foxmail.com </a>        &nbsp;&nbsp;&nbsp;&nbsp;<br>
-			<b> Research Interests: </b> Mobile Computing, Cyber-Physical Systems, Internet of Things, Sensing, Embedded AI, Robotics and Quadrotors and Drones. You can find details from my	<a href="~/assets/pdf/ChenyuZhao_CV.pdf"> <b>CV.</b> </a>
+			<b> Research Interests: </b> Mobile Computing, Cyber-Physical Systems, Internet of Things, Sensing, Embedded AI, Robotics and Quadrotors and Drones. You can find details from my	<a href="../assets/pdf/ChenyuZhao_CV.pdf"> <b>CV.</b> </a>
 <br>
 <br>
 </p>
