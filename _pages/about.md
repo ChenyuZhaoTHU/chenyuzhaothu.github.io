@@ -24,23 +24,28 @@ social: true # includes social icons at the bottom of the page
 
 I am currently a master researcher at the AIoT Lab within the institution of Data and Information, [Tsinghua University](https://www.tsinghua.edu.cn/), under the supervision of [Prof. Xinlei Chen](https://www.sigs.tsinghua.edu.cn/cxl_en/main.htm). Prior to that, received the B.E. degree of Electronic Information Science and Technology from [Northwest University](https://www.nwu.edu.cn/) in China, and the B.S. degree of Electronic System Engineering from [University of Essex](https://www.essex.ac.uk/) in UK, in 2022. 
 
-My current work focuses on advancing sensing, control, edge computing within lightweight drone-based systems. I enjoy building proof-of-concepts for innovative applications, encompassing **both hardware and software** aspects. 
+My current work focuses on advancing sensing, control, and edge computing within lightweight drone-based systems. I enjoy building proof-of-concepts for innovative applications, encompassing **both hardware and software** aspects. 
+
+
+<!-- <p style="text-align:left">
+      <b> Emails: </b>&nbsp;&nbsp; <a href="mailto:zhaocy22@mails.tsinghua.edu.cn">zhaocy22@mails.tsinghua.edu.cn </a> <b>or</b> <a href="mailto:zcyhi@foxmail.com">zcyhi@foxmail.com </a>        &nbsp;&nbsp;&nbsp;&nbsp;<br>
+			<b> Research Interests: </b> Mobile Computing, Cyber-Physical Systems, Internet of Things, Sensing, Embedded AI, Robotics and Quadrotors and Drones. You can find details from my	<a href="../assets/pdf/ChenyuZhao_CV.pdf"> <b>CV.</b> </a>
+<br>
+<br>
+</p> -->
+**Emails:** [zhaocy22@mails.tsinghua.edu.cn](mailto:zhaocy22@mails.tsinghua.edu.cn) or [zcyhi@foxmail.com](mailto:zcyhi@foxmail.com)
+
+**Research Interests:** Mobile Computing, Cyber-Physical Systems, Internet of Things, Sensing, Embedded AI, Robotics and Quadrotors and Drones. You can find details in my [**CV**](../assets/pdf/ChenyuZhao_CV.pdf).
 
 <p style="text-align:center">
         <a href="mailto:zhaocy22@mails.tsinghua.edu.cn"><b>Email </b>  </a>         &nbsp;&nbsp;&nbsp;&nbsp;
 				<a href="https://scholar.google.com/citations?user=ckZ4BHYAAAAJ&hl"> <b>Google Scholar </b>       </a>       &nbsp;&nbsp;&nbsp;&nbsp; 
         <a href="https://www.linkedin.com/in/chenyu-zhao-212b2923b/"> <b>LinkedIn</b>        </a>         &nbsp;&nbsp;&nbsp;&nbsp;
 				<a href="https://github.com/ChenyuZhaoTHU"> <b>Github </b>       </a>         &nbsp;&nbsp;&nbsp;&nbsp;
-				<a href="assets/pdf/ChenyuZhao_CV.pdf"> <b>CV</b> </a>
+				<a href="../assets/pdf/ChenyuZhao_CV.pdf"> <b>CV</b> </a>
 </p>
 
 
-<p style="text-align:left">
-      <b> Emails: </b>&nbsp;&nbsp; <a href="mailto:zhaocy22@mails.tsinghua.edu.cn">zhaocy22@mails.tsinghua.edu.cn </a> <b>or</b> <a href="mailto:zcyhi@foxmail.com">zcyhi@foxmail.com </a>        &nbsp;&nbsp;&nbsp;&nbsp;<br>
-			<b> Research Interests: </b> Mobile Computing, Cyber-Physical Systems, Internet of Things, Sensing, Embedded AI, Robotics and Quadrotors and Drones. You can find details from my	<a href="assets/pdf/ChenyuZhao_CV.pdf"> <b>CV.</b> </a>
-<br>
-<br>
-</p>
 
 
 

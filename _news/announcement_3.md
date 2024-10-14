@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<li> Our paper <b>TransformLoc</b> is accepted by <a href="https://infocom2024.ieee-infocom.org/">IEEE INFOCOM 2024</a> (Acceptance rate: 19.5%) !</li>
+<li> Our paper <b>TransformLoc</b> is accepted by <a href="https://infocom2024.ieee-infocom.org/">IEEE INFOCOM 2024</a> (Acceptance Rate: 19.5%) !</li>
