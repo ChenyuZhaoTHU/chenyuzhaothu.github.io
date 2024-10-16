@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2024-07-01 07:59:00-0400
+date: 2024-10-01 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
 
-<li> We won the <b>3rd</b> Prize of 2024 Tsinghua TBSI Retreat Poster Contest with AirTouch!</li>
+<li> I have been nominated for the National Scholarship for Postgraduate from Ministry of Education of PRC !</li>
