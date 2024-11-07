@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I am currently a master researcher at the AIoT Lab within the institution of Data and Information, [Tsinghua University](https://www.tsinghua.edu.cn/), under the supervision of [Prof. Xinlei Chen](https://www.sigs.tsinghua.edu.cn/cxl_en/main.htm). Prior to that, received the B.E. degree of Electronic Information Science and Technology from [Northwest University](https://www.nwu.edu.cn/) in China, and the B.S. degree of Electronic System Engineering from [University of Essex](https://www.essex.ac.uk/) in UK, in 2022. 
+I am currently a master researcher at the AIoT Lab within the institution of Data and Information, [Tsinghua University](https://www.tsinghua.edu.cn/), under the supervision of [Prof. Xinlei Chen](https://www.sigs.tsinghua.edu.cn/cxl_en/main.htm). Before that, I received a B.E. degree of Electronic Information Science and Technology from [Northwest University](https://www.nwu.edu.cn/) in China, and a B.S. degree of Electronic System Engineering from [University of Essex](https://www.essex.ac.uk/) in the UK, in 2022. 
 
 My current work focuses on advancing sensing, control, and edge computing within lightweight drone-based systems. I enjoy building proof-of-concepts for innovative applications, encompassing **both hardware and software** aspects. 
 
@@ -35,7 +35,7 @@ My current work focuses on advancing sensing, control, and edge computing within
 </p> -->
 **Emails:** [zhaocy22@mails.tsinghua.edu.cn](mailto:zhaocy22@mails.tsinghua.edu.cn) or [zcyhi@foxmail.com](mailto:zcyhi@foxmail.com)
 
-**Research Interests:** Mobile Computing, Cyber-Physical Systems, Internet of Things, Sensing, Embedded AI, Robotics and Quadrotors and Drones. You can find details in my [**CV**](../assets/pdf/ChenyuZhao_CV.pdf).
+**Research Interests:** Mobile Computing, Cyber-Physical Systems, Internet of Things, Sensing, Embedded AI, Robotics, and Quadrotors and Drones. You can find details in my [**CV**](../assets/pdf/ChenyuZhao_CV.pdf).
 
 <p style="text-align:center">
         <a href="mailto:zhaocy22@mails.tsinghua.edu.cn"><b>Email </b>  </a>         &nbsp;&nbsp;&nbsp;&nbsp;
