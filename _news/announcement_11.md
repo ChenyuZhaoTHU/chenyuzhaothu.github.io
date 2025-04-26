@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-
 <li> Our team won the 1st prize (50kRMB) of the Low-Altitude Economy Flight Management Challenge (Meituan)! </li>
